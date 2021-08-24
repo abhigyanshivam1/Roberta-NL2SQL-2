@@ -217,4 +217,4 @@ def infer(nlu1,
     print(f'pr_sql_q : {pr_sql_q}')
     print(f'---------------------------------------------------------------------')
 
-    return pr_sql_q1
+    return pr_sql_q
